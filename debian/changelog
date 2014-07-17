@@ -1,0 +1,6 @@
+php5-memcache (3.0.8-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Engine Yard Packaging <packaging@engineyard.com>  Thu, 17 Jul 2014 10:03:09 +0000
+
